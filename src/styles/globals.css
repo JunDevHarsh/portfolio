@@ -1,3 +1,16 @@
+:root {
+  --primary-dark-900: #171717;
+  --secondary-dark-900: #080f12;
+  --secondary-dark-800: #0e171c;
+  --primary-dark-700: #202124;
+  --primary-light-700: #9aa0a6;
+  --primary-light-500: #e8eaed;
+  --blue: #4285f4;
+  --red: #ea4335;
+  --yellow: #fbbc04;
+  --green: #34a853;
+}
+
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
